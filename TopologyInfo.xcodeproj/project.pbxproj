@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		1D36D5901F322B9B00A7A4CF /* TopologyInfo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TopologyInfo; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D36D5931F322B9C00A7A4CF /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		1D36D59A1F322EB200A7A4CF /* SmallTopo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SmallTopo.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		1D36D5921F322B9B00A7A4CF /* TopologyInfo */ = {
 			isa = PBXGroup;
 			children = (
+				1D36D59A1F322EB200A7A4CF /* SmallTopo.h */,
 				1D36D5931F322B9C00A7A4CF /* main.cpp */,
 			);
 			path = TopologyInfo;
